@@ -1,0 +1,41 @@
+$ionicons-font-path: "../lib/ionic/fonts" !default;
+@import "../www/lib/ionic/scss";
+.bajo {
+	height: 40px !important;
+}
+
+.gris {
+	background-color: iron;
+}
+
+.arriba {
+	text-align: top;
+}
+
+.estrecho {
+	padding: 1px;
+}
+
+.letrachica {
+	font-size: 80%;
+}
+
+.letramedia {
+	font-size: 90%;
+}
+
+.apretado {
+	line-height: 80%;
+}
+
+.slider {
+	height: 60%;
+}
+
+.footer {
+	clear: both;
+	position: relative;
+	height: 50px;
+	margin-top: -50px;
+}
+
